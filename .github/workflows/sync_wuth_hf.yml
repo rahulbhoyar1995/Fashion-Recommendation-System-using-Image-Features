@@ -16,9 +16,3 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: git push --force https://rahul-bhoyar-1995:$HF_TOKEN@huggingface.co/spaces/rahul-bhoyar-1995/Fashion-Recommendation-System-using-Image-Features main
-
-      # Add the Docker build and run step here
-      - name: Build and run Docker image
-        run: |
-          docker build -t fashion-rec-system .
-          docker run fashion-rec-system
