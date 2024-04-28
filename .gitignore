@@ -159,5 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 uploaded_image.jpg
-model_creation/women_fashion_data
+model_creation/women_fashion_data/*.png
+model_creation/women_fashion_data/*.jpeg
+model_creation/women_fashion_data/*.jpg
+model_creation/women_fashion_data/*.webp
 vgg16_model.keras
