@@ -8,3 +8,4 @@ Pillow
 idna
 huggingface-cli
 huggingface_hub[cli]
+watchdog
