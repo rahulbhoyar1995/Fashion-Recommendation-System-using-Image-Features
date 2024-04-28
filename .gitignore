@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 uploaded_image.jpg
 model_creation/
+vgg16_model.keras
