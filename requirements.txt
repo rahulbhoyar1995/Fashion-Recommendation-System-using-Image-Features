@@ -1,0 +1,10 @@
+jupyter
+streamlit
+matplotlib
+scipy
+tensorflow
+numpy
+Pillow
+idna
+huggingface-cli
+huggingface_hub[cli]
